@@ -17,6 +17,10 @@ namespace ConsoleApplication1
             Debug.WriteLine("patch3");
 
             Debug.WriteLine("patch4");
+
+            Debug.WriteLine("patch5");
+
+            Debug.WriteLine("patch6");
         }
     }
 }
